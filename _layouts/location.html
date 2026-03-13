@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<article class="location-page">
+  <header class="location-header">
+    <div class="location-meta">
+      <span class="iata-badge">{{ page.iata }}</span>
+      <span class="country">{{ page.country }}</span>
+    </div>
+    <h1>{{ page.title }}</h1>
+
+    {% if page.air_canada_routes %}
+    <div class="routes">
+      <strong>Air Canada routes:</strong>
+      <ul>
+        {% for route in page.air_canada_routes %}
+        <li>{{ route }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <div class="cost-summary">
+      {% if page.est_flight_cad %}<span class="cost-chip">✈ ~{{ page.est_flight_cad }} flights (2 pax)</span>{% endif %}
+      {% if page.est_hotel_cad %}<span class="cost-chip">🏨 ~{{ page.est_hotel_cad }} hotel (5 nights)</span>{% endif %}
+    </div>
+  </header>
+
+  <nav class="toc">
+    <strong>Jump to:</strong>
+    <a href="#flights">Flights</a> ·
+    <a href="#hotels">Hotels</a> ·
+    <a href="#dining">Dining</a> ·
+    <a href="#transportation">Transportation</a> ·
+    <a href="#beaches">Beaches</a> ·
+    <a href="#attractions">Attractions</a> ·
+    <a href="#tips">Tips</a>
+  </nav>
+
+  <div class="location-content">
+    {{ content }}
+  </div>
+
+  <div class="back-link">
+    <a href="{{ '/' | relative_url }}">← Back to all destinations</a>
+  </div>
+
+  {% if page.last_researched %}
+  <p class="researched-date">Last researched: {{ page.last_researched }}</p>
+  {% endif %}
+</article>

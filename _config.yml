@@ -1,0 +1,21 @@
+title: "Caribbean Vacation Options – April 2026"
+description: "Air Canada non-stop Caribbean destinations compared for late April 2026 travel."
+theme: minima
+url: "https://jusroberts.github.io"
+baseurl: "/vacation_options"
+
+collections:
+  locations:
+    output: true
+    permalink: /locations/:name/
+
+defaults:
+  - scope:
+      path: "locations"
+      type: "locations"
+    values:
+      layout: location
+
+markdown: kramdown
+kramdown:
+  input: GFM
