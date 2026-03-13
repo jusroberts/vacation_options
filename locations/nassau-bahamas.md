@@ -26,7 +26,7 @@ last_researched: 2026-03-13
 - Departure terminal at YYZ: **Terminal 1**
 - Economy base fares have been seen as low as **CAD $178 one-way** directly on Air Canada; round-trip economy routinely lands in the $450–$700/person range for late April.
 - Booking at least **3 weeks in advance** can save ~10%. Mid-week departures tend to be cheaper.
-- **Baggage:** Air Canada's carry-on is included; checked bags depend on your fare class — check [aircanada.com](https://www.aircanada.com/en-ca/flights-from-toronto-to-nassau) for current fees.
+- **Baggage — important:** The cheapest **Economy Basic** fare includes only a personal item (no carry-on bag) on Caribbean routes. Economy Standard/Flex includes a carry-on; first checked bag ~CAD $35–42. Economy Comfort/Latitude includes 2 free checked bags. Verify at [aircanada.com/baggage](https://www.aircanada.com/ca/en/aco/home/plan/baggage/carry-on.html).
 
 **Search / Book:**
 - [Air Canada – YYZ to NAS](https://www.aircanada.com/en-ca/flights-from-toronto-to-nassau)
@@ -39,7 +39,17 @@ last_researched: 2026-03-13
 
 > 5-night stay (Mon Apr 20 – Fri Apr 25, 2026), 2 adults. Rates are USD × 1.44 = CAD (approx., Mar 2026 rate). Late April is **peak season** — book well in advance.
 
-### Budget / Mid-Range
+### Budget
+
+#### [Comfort Suites Paradise Island](https://www.comfortsuitespi.com/) ⭐⭐⭐
+- **Location:** Paradise Island, adjacent to Atlantis Resort
+- **Meal plan:** Complimentary full buffet breakfast included
+- **Who:** All travelers
+- **Price:** ~$225–$370 USD/night (~$320–$530 CAD/night) → **~$1,600–$2,650 CAD / 5 nights**
+- **Amenities:** Full access to Atlantis beaches, Aquaventure waterpark, The Dig aquarium, and all 11 pools — included for all guests. Free Wi-Fi, free parking.
+- **Notes:** Extra fees: 10% VAT + 11% Resort Levy + ~USD $7/person/day housekeeping + ~USD $39.50/person/day hotel service charge. Best value if you want Atlantis access without Atlantis prices.
+
+### Mid-Range / All-Inclusive
 
 #### [Breezes Resort & Spa Bahamas (All-Inclusive)](https://www.breezes.com/) ⭐⭐⭐⭐
 - **Location:** Cable Beach, directly on the beach
@@ -72,7 +82,9 @@ last_researched: 2026-03-13
 - **Location:** Cable Beach
 - **Meal plan:** Room only (numerous on-site restaurants)
 - **Price:** ~$400–$700 USD/night (~$575–$1,000 CAD/night) → **~$2,875–$5,000 CAD / 5 nights**
-- **Amenities:** 6 outdoor pools, private beach, SLS Baha Mar spa, casino, 40+ restaurants & bars, nightlife, shopping
+- **Mandatory resort fee:** ~USD $83.60/night (additional, covers Baha Bay Waterpark access, Wi-Fi, fitness centre)
+- **Current offer (verify):** Complimentary night with 3/4/5/7-night stays, valid through May 2026
+- **Amenities:** 6 outdoor pools, private beach, Baha Bay Waterpark, Jack Nicklaus golf course, casino, 40+ restaurants & bars (including Café Boulud and Carna), luxury spa
 
 #### [Sandals Royal Bahamian (All-Inclusive, Couples)](https://www.sandals.com/royal-bahamian/) ⭐⭐⭐⭐⭐
 - **Location:** Cable Beach
@@ -91,12 +103,13 @@ Nassau has a range of dining from cheap local fish fry spots to upscale resort r
 
 | Restaurant | Cuisine | Price Range | Notes |
 |---|---|---|---|
-| [Arawak Cay Fish Fry](https://www.tripadvisor.com/Attraction_Review-g147416-d597131-Reviews-Arawak_Cay-Nassau_New_Providence_Island_Bahamas.html) | Bahamian / Seafood | $ | Open-air food shacks; conch salad, fried fish, peas and rice. Authentic and cheap. |
-| [Sapodilla](https://www.tripadvisor.com/Restaurant_Review-g147416-d1247090-Reviews-Sapodilla-Nassau_New_Providence_Island_Bahamas.html) | European / Bahamian fusion | $$$ | Set in a Bahamian mansion; tableside food prep entertainment |
-| [Shima (Baha Mar)](https://www.caesarsbahamas.com/eat-drink/shima.html) | Asian Fusion / Sushi | $$$$ | Upscale sushi and dim sum at Baha Mar complex |
-| [Blue Sail Restaurant & Beach Bar](https://www.tripadvisor.com/Restaurant_Review-g147416-d10064451-Reviews-Blue_Sail_Restaurant_Beach_Bar-Nassau_New_Providence_Island_Bahamas.html) | Seafood | $$ | Beachfront; ocean views, tropical drinks |
-| [John Watling's Distillery](https://www.johnwatlings.com/) | Rum bar / light bites | $ | Free distillery tour in a historic 18th-century estate; sample local rum |
-| [Señor Frog's Nassau](https://www.senorfrogs.com/bahamas) | Tex-Mex / Bar | $$ | Very lively, especially when cruise ships are in port |
+| [Arawak Cay Fish Fry](https://www.tripadvisor.com/Attraction_Review-g147416-d597131-Reviews-Arawak_Cay-Nassau_New_Providence_Island_Bahamas.html) | Bahamian / Seafood | $ | Open-air food shacks; conch salad, fried fish, peas 'n' rice. Authentic, cash-preferred, must-visit. |
+| [The Poop Deck at Sandyport](https://www.nassauparadiseisland.com/dining-restaurants) | Bahamian / Seafood | $$$ | Waterfront with harbour views; fresh fish, conch fritters, lobster; popular sunset dinner spot |
+| [Graycliff Restaurant](https://www.nassauparadiseisland.com/dining-restaurants/fine-dining) | Fine Dining / Bahamian Continental | $$$$ | The Bahamas' first 5-star restaurant; 18th-century mansion, 200,000-bottle wine cellar, tuxedo service |
+| [Café Boulud (Baha Mar)](https://bahamar.com/) | French / Bahamian Fusion | $$$–$$$$ | Chef Daniel Boulud's outpost blending French technique with Bahamian ingredients |
+| [John Watling's Distillery](https://www.johnwatlings.com/) | Rum bar / light bites | $ | Free distillery tour at a historic 18th-century estate; complimentary rum tastings |
+| [Pirate Republic Brewing Co.](https://www.nassauparadiseisland.com/dining-restaurants) | Craft Beer / Pub | $$ | The Bahamas' only craft brewery; downtown Nassau; casual pub food |
+| [Señor Frog's Nassau](https://www.senorfrogs.com/bahamas) | Tex-Mex / Bar | $$ | Very lively when cruise ships are in port; party atmosphere |
 
 **Price guide (USD):** $ = under $15/person · $$ = $15–$40 · $$$ = $40–$80 · $$$$ = $80+
 
@@ -113,8 +126,8 @@ Nassau has a range of dining from cheap local fish fry spots to upscale resort r
 
 | Option | Cost (est.) | Notes |
 |---|---|---|
-| Taxi to Cable Beach | ~$25–32 USD (~$36–46 CAD) | Government-regulated fixed fares; agree on price before getting in |
-| Taxi to Paradise Island | ~$32–40 USD (~$46–58 CAD) for 2 | Per vehicle; extra luggage may cost extra |
+| Taxi to Cable Beach | ~$22–30 USD (~$32–43 CAD) for 2 | Government-regulated zone fares; no meter — agree price before getting in. Yellow licence plates = official. |
+| Taxi to Paradise Island | ~$38–45 USD (~$55–65 CAD) for 2 + $2 bridge toll | Extra passengers: +$3–4 each. First 2 bags free; $0.75/extra bag. |
 | Hotel shuttle | Free at many resorts | Confirm with your hotel in advance |
 | Rental car | See below | Pickup at airport; drive on the **left** |
 
@@ -123,7 +136,7 @@ Nassau has a range of dining from cheap local fish fry spots to upscale resort r
 | Option | Cost (est.) | Notes |
 |---|---|---|
 | Public jitney bus | $1.25–2.50 BSD/ride | Bus #10 goes to Cable Beach from city; ~20-min ride |
-| Water taxi (Nassau ↔ Paradise Island) | ~$4–6 USD each way | Scenic; runs during daylight hours |
+| Water taxi (Nassau ↔ Paradise Island) | ~$7 USD each way | Departs Woodes Rogers Walk; approx. every 30 min, 9 AM–6 PM. Service can be unreliable — verify on arrival. |
 | Taxi (within Nassau) | $10–25 USD per trip | Agree on fare before riding; no meters |
 | Rental car (economy, 5 days) | ~$360–$525 CAD (≈$72 CAD/day × 5) | [Kayak Canada – Nassau rentals](https://www.ca.kayak.com/Cheap-Nassau-Car-Rentals.11232.cars.ksp) |
 
@@ -159,26 +172,39 @@ Nassau has a range of dining from cheap local fish fry spots to upscale resort r
 - Home to Atlantis and RIU resorts; beach is public but busiest near the resorts
 - Clear water great for snorkeling near the reefs
 
+### [Love Beach](https://www.nassauparadiseisland.com/experiences/beaches/love-beach)
+- **Location:** Northwest New Providence, ~8–10 km west of Cable Beach (~20-min drive)
+- Nassau's **best snorkeling beach** — 40 acres of protected coral reef just offshore, teeming with marine life
+- About 1 mile long; quieter and less touristy than Cable Beach
+- **Facilities:** Nirvana Beach Bar & Lounge (food/drinks), snorkel gear rental (~$5/piece/day), sun loungers; entry via Nirvana Beach Club ~$5/person
+- Access: Jitney bus #10 or #12 (~$1.50) or taxi from Cable Beach
+
 ### [Goodman's Bay Beach](https://www.nassauparadiseisland.com/beaches/goodmans-bay)
-- **Location:** Just west of downtown, near Baha Mar
-- Quieter public beach; popular with locals
-- Free access, calm waters, shaded areas; no major facilities
+- **Location:** Just west of downtown, adjacent to Baha Mar
+- Quieter public beach; popular with locals on weekends
+- Free access, calm waters, some shade; minimal facilities
 
 ---
 
 ## Attractions
 
-### [Atlantis Aquaventure Waterpark](https://www.atlantisbahamas.com/things-to-do/aquaventure)
-- 141-acre waterpark: thrilling slides, lazy river, wave pool, 5 miles of beaches, 11 pools
-- **Entry (non-hotel guests):** Day passes from ~$150 USD/adult (~$216 CAD)
-- Hotel guests: included in stay
-- [Buy tickets](https://www.atlantisbahamas.com/things-to-do/aquaventure)
+### [Atlantis Aquaventure Waterpark](https://www.atlantisbahamas.com/daybooking)
+- 141-acre waterpark: high-speed slides, lazy river with rapids, wave pool, 5 miles of beaches, 11 pools, The Dig aquarium (250+ marine species), Predator Tunnel
+- **Entry (non-hotel guests):** Day passes ~$85–$200 USD/adult (~$122–$288 CAD) — varies by date; peak periods can hit the high end
+- Hotel guests (Atlantis or Comfort Suites PI): included in stay
+- [Buy day passes](https://www.atlantisbahamas.com/daybooking)
+
+### [Fort Charlotte](https://www.tripadvisor.com/Attraction_Review-g147416-d148525-Reviews-Fort_Charlotte-Nassau_New_Providence_Island_Bahamas.html)
+- Nassau's largest fort (late 18th century) — three linked forts on a hilltop overlooking Nassau Harbour
+- Dry moat, dungeons, underground passageways, cannons, and panoramic harbour views
+- **Entry:** ~$5.50 USD/adult; guided tours included (guides work for tips)
+- ~1 mile west of downtown Nassau on West Bay Street
 
 ### [Pirates of Nassau Museum](https://www.pirates-of-nassau.com/)
 - Interactive museum dedicated to Nassau's golden age of piracy (1690–1720)
-- Walk replica pirate ships, visit the dungeon, learn about Blackbeard and local pirates
-- **Entry:** ~$15 USD/adult (~$22 CAD)
-- Great rainy-day option; downtown location
+- Walk replica pirate ships, visit the dungeon, learn about Blackbeard, Anne Bonny, Calico Jack
+- **Entry:** $14 USD/adult, $7 USD/child (~$20 / $10 CAD)
+- Great air-conditioned rainy-day option; downtown George Street location
 
 ### [John Watling's Distillery](https://www.johnwatlings.com/)
 - **Entry: Free**
@@ -210,23 +236,28 @@ Nassau has a range of dining from cheap local fish fry spots to upscale resort r
 - Nassau is generally **safe for tourists** in resort areas (Cable Beach, Paradise Island, downtown). The US State Department has a Level 2 advisory (same as France/UK) — mostly crime-in-local-communities related.
 - **Avoid "Over the Hill"** (south of Shirley Street) — this is where most violent crime occurs, well away from tourist areas.
 - Petty theft (pickpockets, bag-snatching) can occur in downtown Nassau markets — use a money belt and don't leave valuables unattended on the beach.
-- Use **enclosed indoor ATMs** only; avoid ATMs at night.
-- Uber/Lyft don't operate here — **only use official taxis** (avoid unmarked vehicles).
+- Use **enclosed indoor ATMs** only (inside hotel lobbies or bank branches); credit/debit fraud is frequent — monitor your statements.
+- Uber/Lyft don't operate here — **only use official taxis with yellow licence plates** (avoid unmarked vehicles).
+- **Jet ski warning:** The U.S. Embassy advises against renting jet skis from independent operators on New Providence/Paradise Island due to reported sexual assaults. Use resort-based operators or organized excursions only.
 - Public buses after dark: not recommended.
 
 ### Money
-- The **Bahamian dollar (BSD) is pegged 1:1 to the USD** — US dollars are accepted everywhere.
-- Credit cards are widely accepted at resorts and restaurants; bring USD cash for jitneys, markets, and local spots.
+- The **Bahamian dollar (BSD) is pegged 1:1 to the USD** — US dollars are accepted everywhere. You may receive BSD as change; spend it before leaving (most foreign banks won't exchange BSD).
+- Bring small USD bills ($1, $5, $20) — fish fry vendors, jitneys, and markets are often cash-only.
+- Credit cards widely accepted at resorts; **10% VAT** applies to most purchases. Many restaurants auto-add 15% gratuity — always check your bill before adding more.
 - If not staying all-inclusive, budget ~$30–60 USD/person/day for food and $20–40 USD/day for activities.
 
 ### Practical Tips
 - **Book all-inclusive if you want simplicity** — food, drinks, and most activities are bundled. Non-all-inclusive dining can be expensive ($10–18 USD for a drink in resort bars).
 - **April is peak season** — prices are high. Book flights and hotels as early as possible.
 - Late April weather: 27–30°C (81–86°F), sunny, low humidity. Perfect beach weather.
+- **Junkanoo Beach is very crowded on cruise ship days** — check cruise schedules if you want a quieter experience.
+- Travel insurance with **medical evacuation** coverage is strongly recommended.
 - [r/Bahamas](https://www.reddit.com/r/Bahamas/) — community tips and trip reports
 - [Wikivoyage – Nassau](https://en.wikivoyage.org/wiki/Nassau) — detailed local info
 - [Nassau Paradise Island Tourism](https://www.nassauparadiseisland.com/) — official tourism site
+- [Government of Canada – Bahamas Travel Advisory](https://travel.gc.ca/destinations/bahamas) — check before departure
 
 ---
 
-*Sources: [Air Canada – YYZ to NAS](https://www.aircanada.com/en-ca/flights-from-toronto-to-nassau) · [Kayak Canada – flights](https://www.ca.kayak.com/flight-routes/Toronto-Pearson-Intl-YYZ/Nassau-Intl-NAS) · [Nassau Paradise Island Tourism](https://www.nassauparadiseisland.com/hotels-resorts) · [Breezes Resort](https://www.breezes.com/) · [Sandals Royal Bahamian](https://www.sandals.com/royal-bahamian/) · [Grand Hyatt Baha Mar](https://www.hyatt.com/grand-hyatt/en-US/nasso-grand-hyatt-baha-mar) · [Atlantis Paradise Island](https://www.atlantisbahamas.com/) · [Kayak Canada – car rentals](https://www.ca.kayak.com/Cheap-Nassau-Car-Rentals.11232.cars.ksp) · [TripAdvisor – Nassau](https://www.tripadvisor.com/Tourism-g147416-Nassau_New_Providence_Island_Bahamas-Vacations.html) · [Nomadic Matt – Bahamas Guide](https://www.nomadicmatt.com/travel-guides/caribbean-travel-tips/the-bahamas/) · [U.S. News Travel – Nassau](https://www.ace.aaa.com/travel/destinations/north-america/bahamas/nassau.html)*
+*Sources: [Air Canada – YYZ to NAS](https://www.aircanada.com/en-ca/flights-from-toronto-to-nassau) · [Air Canada baggage policy](https://www.aircanada.com/ca/en/aco/home/plan/baggage/carry-on.html) · [Kayak Canada – flights](https://www.ca.kayak.com/flight-routes/Toronto-Pearson-Intl-YYZ/Nassau-Intl-NAS) · [Nassau Paradise Island Tourism](https://www.nassauparadiseisland.com/hotels-resorts) · [Comfort Suites Paradise Island](https://www.comfortsuitespi.com) · [Breezes Resort](https://www.breezes.com/) · [Sandals Royal Bahamian](https://www.sandals.com/royal-bahamian/) · [Grand Hyatt Baha Mar](https://www.bahamar.com) · [Atlantis Paradise Island](https://www.atlantisbahamas.com/) · [Kayak Canada – car rentals](https://www.ca.kayak.com/Cheap-Nassau-Car-Rentals.11232.cars.ksp) · [Momondo – NAS car rentals](https://www.momondo.com/car-rental/nassau-intl-NAS-cap.ksp) · [TripAdvisor – Nassau](https://www.tripadvisor.com/Tourism-g147416-Nassau_New_Providence_Island_Bahamas-Vacations.html) · [Nomadic Matt – Bahamas Guide](https://www.nomadicmatt.com/travel-guides/caribbean-travel-tips/the-bahamas/) · [U.S. News Travel – Nassau](https://www.ace.aaa.com/travel/destinations/north-america/bahamas/nassau.html) · [Government of Canada – Bahamas Advisory](https://travel.gc.ca/destinations/bahamas) · [Nassau Bahamas Guide – Love Beach](https://nassaubahamasguide.com/destination/love-beach-bahamas/)*
