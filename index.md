@@ -14,7 +14,7 @@ All price estimates are for **2 adults** departing from **Toronto (YYZ)**, with 
 | Destination | Country | Est. Flights (2 pax) | Est. Hotel (5 nights) | Page |
 |---|---|---|---|---|
 | Nassau | Bahamas | ~$900–$1,400 CAD | ~$1,450–$5,000 CAD | [View →]({{ site.baseurl }}/locations/nassau-bahamas/) |
-| Great Exuma | Bahamas | — | — | *Coming soon* |
+| Great Exuma | Bahamas | ~$1,400–$2,200 CAD | ~$1,700–$6,000 CAD | [View →]({{ site.baseurl }}/locations/great-exuma-bahamas/) |
 | Montego Bay | Jamaica | — | — | *Coming soon* |
 | Kingston | Jamaica | — | — | *Coming soon* |
 | Punta Cana | Dominican Republic | — | — | *Coming soon* |
