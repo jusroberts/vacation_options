@@ -183,7 +183,7 @@ Maurice Bishop International Airport (GND) is located on the south coast of Gren
 ### 2. St. George's Capital
 - **Hours:** Always accessible at street level; forts and museums have set hours
 - **Admission:** Fort George entry approximately USD $2–$5; Grenada National Museum approximately USD $5
-- **Description:** St. George's is one of the most beautiful capital cities in the Caribbean — a horseshoe harbour (the Carenage) ringed by brightly coloured Georgian-era buildings and warehouses, with steep hills behind carrying the old fortifications and the red-roofed colonial-era town. The **Carenage** waterfront is the social and commercial centre: fishing boats and inter-island ferries share the docks with café tables and the daily rhythm of a working port town. **Fort George**, on the promontory above the harbour, is a well-preserved 18th-century British fortification with panoramic views over the capital, the harbour, and the Caribbean coast. The **Grenada National Museum** nearby covers the island's history from pre-Columbian times through the colonial era to the 1983 US intervention and beyond. Allow a half-day to explore properly; the water taxi from Grand Anse is the most enjoyable way to arrive.
+- **Description:** St. George's is one of the most beautiful capital cities in the Caribbean — a horseshoe harbour (the Carenage) ringed by brightly coloured Georgian-era buildings and warehouses, with steep hills behind carrying the old fortifications and the red-roofed colonial-era town. The **Carenage** waterfront is the social and commercial centre: fishing boats and inter-island ferries share the docks with café tables and the daily rhythm of a working port town. **Fort George**, on the promontory above the harbour, is a well-preserved 18th-century British fortification with panoramic views over the capital, the harbour, and the Caribbean coast. The **Grenada National Museum** nearby covers the island's history from pre-Columbian times through the colonial era, including the 1983 US military intervention (Operation Urgent Fury) — a significant chapter in modern Grenadian history that the museum addresses directly and candidly. Allow a half-day to explore the capital properly; the water taxi from Grand Anse is the most enjoyable way to arrive. The **Market Square** in the heart of St. George's is particularly vibrant on Saturday mornings when vendors sell fresh spices, local produce, and handicrafts.
 
 ### 3. Belmont Estate
 - **Hours:** Monday–Saturday, tours typically 9 AM–4 PM; confirm in advance
@@ -218,7 +218,7 @@ Maurice Bishop International Airport (GND) is located on the south coast of Gren
 The definitive beach of Grenada — a sweeping 3-kilometre crescent of white sand on the calm Caribbean coast south of St. George's. Grand Anse is wide, clean, and well-shaded by sea grape trees at the margins; the water is calm, clear, and warm year-round. Most of Grenada's principal resorts (Spice Island Beach, Silversands, Kalinago) front directly onto Grand Anse, and beach bars, watersports operators, and vendors provide the infrastructure of an active tourist beach. Despite all of this, it is rarely crowded enough to feel overwhelming — Grenada does not receive the visitor volumes of Barbados or Antigua, and Grand Anse retains a genuinely relaxed character. Sea temperature in late April averages 27–28°C (80–82°F). The best beach on the island and among the best in the Eastern Caribbean.
 
 ### Morne Rouge Beach (BBC Beach)
-A short drive south of Grand Anse, Morne Rouge occupies a smaller, more sheltered bay that offers a deliberate contrast to its famous neighbour. There are no beach vendors here, far fewer visitors, and the atmosphere is genuinely quiet. The water is calm and clear — the sheltered aspect of the bay means it is ideal for swimming and floating without distraction. Laluna resort fronts this beach; non-guests can access it from the public beach path. The lack of amenities means bringing water and shade if you plan to stay long, but the peace and beauty justify the arrangement.
+A short drive south of Grand Anse, Morne Rouge (locally called BBC Beach, though the origin of the nickname is debated) occupies a smaller, more sheltered bay that offers a deliberate contrast to its famous neighbour. There are no beach vendors here, far fewer visitors, and the atmosphere is genuinely quiet. The water is calm and clear — the sheltered aspect of the bay means it is ideal for swimming and floating without distraction. Laluna resort fronts this beach; non-guests can access it from the public beach path. The lack of amenities means bringing water and shade if you plan to stay long, but the peace and beauty justify the arrangement. It is a 5-minute drive or a pleasant 20-minute walk from the south end of Grand Anse.
 
 ### La Sagesse Beach
 On the southeast coast, La Sagesse sits within a protected natural area (the La Sagesse Nature Centre) that encompasses mangroves, a salt pond, and coastal forest as well as the beach itself. The beach is remote by Grenadian standards — a significant drive from the south coast — and receives almost no casual visitors. The snorkelling off La Sagesse is considered among the best shore-entry snorkelling on the island, with reef fish, coral formations, and occasional turtles. The La Sagesse Hotel has a small restaurant at the beach entrance; otherwise, bring your own provisions. The journey is worth it for couples who want one genuinely uncrowded, nature-adjacent beach day.
@@ -230,7 +230,7 @@ On Grenada's northeast Atlantic coast, Bathway is the most beautiful of the isla
 A small, calm beach immediately adjacent to the True Blue Bay area on the south coast. The name refers to the faintly rosy tinge of the sand from crushed coral and shell material; the water is sheltered and exceptionally clear, making it one of the island's best shore-snorkelling options without requiring a boat. Pink Gin Beach is accessible through True Blue Bay resort and is less visited than Grand Anse. Calm conditions year-round make it suitable for less confident swimmers.
 
 ### Anse aux Epines (Prickly Bay)
-Less a traditional beach than a sheltered marina bay on the south coast, Anse aux Epines (also called Prickly Bay) is lined with moored yachts and the infrastructure of Grenada's significant sailing community. The beach itself is small and secondary to the nautical atmosphere; this is the place to come for sundowners at the marina bars, for watching the sailing traffic, and for the distinctive social world of the Eastern Caribbean yachting community. Calabash Hotel and several marina-area restaurants and bars front the bay.
+Less a traditional beach than a sheltered marina bay on the south coast, Anse aux Epines (also called Prickly Bay) is lined with moored yachts and the infrastructure of Grenada's significant sailing community. Grenada is a major provisioning and rest stop for transatlantic sailors and the yachting community is a meaningful part of the south coast's character. The beach itself is small and secondary to the nautical atmosphere; this is the place to come for sundowners at the marina bars, for watching the sailing traffic, and for the distinctive social world of the Eastern Caribbean yachting community. Calabash Hotel and several marina-area restaurants and bars front the bay. The calm, protected water makes it suitable for stand-up paddleboarding and kayaking.
 
 ---
 
@@ -298,6 +298,7 @@ As of early 2026, the Government of Canada rates Grenada at **"Exercise Normal S
 - **Medical facilities:** Grenada's primary hospital is St. George's General Hospital (also known as the General Hospital) in the capital. Facilities are adequate for routine and moderate care but limited for complex trauma, cardiac events, or specialist conditions. Medical evacuation to Barbados, Trinidad, or the United States may be required for serious conditions; travel medical insurance covering emergency evacuation is essential.
 - **Travel medical insurance is not optional.** OHIP and Canadian provincial health plans provide no meaningful coverage outside Canada. A comprehensive policy covering emergency medical treatment, hospitalization, and medical evacuation is strongly recommended for all travellers.
 - **Sun and heat:** The primary health risk for most visitors is sunburn and heat exhaustion. Apply SPF 50+ generously, stay hydrated, and seek shade during peak midday sun (11 AM–3 PM).
+- **Sea conditions:** The Caribbean side (Grand Anse, Morne Rouge, Pink Gin) is calm year-round and safe for all swimmers. The Atlantic side (Bathway, La Sagesse in certain swells) can carry currents and surge — observe local warning flags and ask locally before entering the water on the windward coast.
 
 ### Tipping Customs
 
@@ -315,6 +316,7 @@ Grenada broadly follows Eastern Caribbean tipping conventions, influenced by Bri
 
 - **Check your bill first:** A service charge of 10% is commonly applied at restaurants and resort dining rooms. Confirm before adding an additional tip.
 - Budget approximately **USD $100–$150 per couple** specifically for gratuities over a 5-night stay as a reasonable baseline.
+- Tips in Grenada are appreciated and represent a meaningful part of hospitality workers' income. Leaving daily tips for housekeeping in the room (rather than a single sum at checkout) ensures the right person receives them.
 
 ### 2SLGBTQI+ Travellers
 
@@ -322,7 +324,11 @@ Grenada retains **colonial-era laws that criminalise same-sex sexual activity** 
 
 In practical terms: Grenada is a socially conservative, deeply religious society, and public expression of same-sex relationships — including public displays of affection — is inadvisable anywhere on the island, including the resort strip. The island does not have a visible LGBTQ+ social scene, and unlike Barbados (which decriminalized in 2023) or the British territories (which were decriminalized by UK Privy Council order), Grenada has not yet undertaken formal legal reform. Same-sex couples visiting Grenada's international-brand resorts are unlikely to encounter overt hostility within those specific environments, but awareness of the broader legal and social context is important and the situation is meaningfully different from Canada. This is not an openly welcoming destination for 2SLGBTQI+ travellers.
 
-**Before travelling, review the most current Government of Canada travel advisory for Grenada at travel.gc.ca**, which includes notes on local laws that may affect 2SLGBTQI+ Canadians. Assess your comfort level with the legal and social environment in full before booking.
+**Before travelling, review the most current Government of Canada travel advisory for Grenada at travel.gc.ca**, which includes notes on local laws that may affect 2SLGBTQI+ Canadians. Assess your comfort level with the legal and social environment in full before booking. Grenada is not recommended as a primary destination for couples for whom open expression of their relationship in public is important to their travel experience.
+
+---
+
+*For Canadian couples seeking a Caribbean destination with a fully decriminalized legal environment, Barbados (BGI, direct Air Canada service from YYZ) offers a meaningful alternative with a comparable climate and beach quality.*
 
 ---
 
@@ -341,3 +347,4 @@ In practical terms: Grenada is a socially conservative, deeply religious society
 - [Caribbean Airlines — caribbean-airlines.com](https://www.caribbean-airlines.com)
 - [Air Canada — aircanada.com](https://www.aircanada.com)
 - [Government of Canada Travel Advisories — travel.gc.ca](https://travel.gc.ca/destinations/grenada)
+- [Wikivoyage: Carriacou and Petite Martinique](https://en.wikivoyage.org/wiki/Carriacou_and_Petite_Martinique)
