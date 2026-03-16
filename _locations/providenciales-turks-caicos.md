@@ -1,10 +1,13 @@
 ---
----
-# Providenciales, Turks & Caicos (PLS) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Turks & Caicos are in **USD** — the US Dollar is the official and only currency of the British Overseas Territory. CAD is not accepted anywhere on the island.
-
+layout: location
+title: "Providenciales, Turks & Caicos"
+country: Turks & Caicos
+iata: PLS
+air_canada_routes:
+  - "Toronto (YYZ) – 3–5x weekly non-stop"
+est_flight_cad: "$2,600–$4,000"
+est_hotel_cad: "$1,225–$12,000+"
+last_researched: 2026-03-15
 ---
 
 ## Flights

@@ -1,9 +1,14 @@
 ---
+layout: location
+title: "St. George's, Grenada"
+country: Grenada
+iata: GND
+air_canada_routes:
+  - "No direct YYZ service — connect via Barbados (BGI) on Caribbean Airlines"
+est_flight_cad: "$1,800–$3,000"
+est_hotel_cad: "$1,075–$6,000+"
+last_researched: 2026-03-15
 ---
-# St. George's, Grenada (GND) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights. Full country name: Grenada (also includes the islands of Carriacou and Petite Martinique).
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Grenada are in **XCD** — the Eastern Caribbean Dollar — pegged at a fixed rate of **1 USD = 2.70 XCD**. USD is widely accepted at hotels, restaurants, and tourist-facing businesses. CAD is not commonly accepted; exchange to USD before departing Canada or use a credit card. ATMs dispense XCD.
 
 > **Trip at a glance:**
 > - 📍 **Destination:** St. George's, Grenada — "The Spice Isle"
@@ -11,7 +16,6 @@
 > - 🕐 **Total travel time:** Approximately 9–10 hours door-to-door from Toronto (connection required)
 > - 💱 **Currency:** Eastern Caribbean Dollar (XCD); 1 USD ≈ 2.70 XCD; USD widely accepted
 
----
 
 ## Flights
 

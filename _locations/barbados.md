@@ -1,10 +1,13 @@
 ---
----
-# Bridgetown, Barbados (BGI) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Barbados are in **BBD** — the Barbadian Dollar — pegged at a fixed rate of exactly **2 BBD = 1 USD**. USD is widely accepted everywhere at this fixed rate. CAD is not commonly accepted; exchange to USD before departing Canada or use credit cards, which are accepted broadly at hotels and restaurants.
-
+layout: location
+title: "Bridgetown, Barbados"
+country: Barbados
+iata: BGI
+air_canada_routes:
+  - "Toronto (YYZ) – multiple times per week, seasonal (verify late April)"
+est_flight_cad: "$2,600–$4,000"
+est_hotel_cad: "$1,430–$6,000+"
+last_researched: 2026-03-15
 ---
 
 ## Flights

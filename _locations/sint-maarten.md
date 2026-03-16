@@ -1,11 +1,19 @@
 ---
+layout: location
+title: "Sint Maarten / Saint Martin"
+country: Sint Maarten
+iata: SXM
+air_canada_routes:
+  - "Toronto (YYZ) – 2x weekly non-stop, Thursdays & Sundays (AC1326)"
+est_flight_cad: "$1,000–$1,600"
+est_hotel_cad: "$1,100–$7,250"
+last_researched: 2026-03-15
 ---
-# Sint Maarten / Saint Martin (SXM) — Vacation Guide
+
 ### For a couple travelling from Toronto (YYZ) | Late April 2026
 
 Sint Maarten / Saint Martin is a 37-square-mile island in the northeastern Caribbean shared by two nations. The southern Dutch side (Sint Maarten) is a constituent country of the Kingdom of the Netherlands. The northern French side (Saint Martin) is a French *collectivité d'outre-mer*. Together they form one of the most diverse, food-obsessed, and beach-rich destinations in the Caribbean, often called the "Culinary Capital of the Caribbean" and the "Crossroads of the Caribbean" for its 100+ nationalities.
 
----
 
 ## Flights
 

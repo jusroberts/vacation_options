@@ -1,10 +1,13 @@
 ---
----
-# Pointe-à-Pitre, Guadeloupe (PTP) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Guadeloupe are in **EUR (Euro)** — Guadeloupe is a French overseas department (région d'outre-mer) and a full member of the European Union and Eurozone. Neither CAD nor USD is accepted. Exchange CAD to EUR before departure.
-
+layout: location
+title: "Pointe-à-Pitre, Guadeloupe"
+country: Guadeloupe (France)
+iata: PTP
+air_canada_routes:
+  - "Toronto (YYZ) – Saturdays only, seasonal non-stop"
+est_flight_cad: "$2,000–$3,600"
+est_hotel_cad: "$3,000–$5,500"
+last_researched: 2026-03-15
 ---
 
 ## Flights

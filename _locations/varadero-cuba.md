@@ -1,10 +1,13 @@
 ---
----
-# Varadero, Cuba (VRA) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Prices are given in CAD where available. USD is used for Cuban in-destination costs (hotels, activities, dining) as it is the dominant tourist currency on the ground. CAD is accepted at many resorts and exchange desks.
-
+layout: location
+title: "Varadero, Cuba"
+country: Cuba
+iata: VRA
+air_canada_routes:
+  - "Toronto (YYZ) – 2–3x weekly non-stop (AC1400, AC2140, AC2142, AC2220, AC2222)"
+est_flight_cad: "$2,000–$3,000"
+est_hotel_cad: "$900–$4,500"
+last_researched: 2026-03-15
 ---
 
 ## Flights

@@ -1,10 +1,13 @@
 ---
----
-# St. John's, Antigua (ANU) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Antigua are in **XCD** (Eastern Caribbean Dollar) — the official currency — though **USD is widely accepted** across the island at hotels, restaurants, shops, and taxis. CAD is not broadly accepted; convert to USD before departing or use a credit card. ATMs dispense XCD.
-
+layout: location
+title: "St. John's, Antigua"
+country: Antigua & Barbuda
+iata: ANU
+air_canada_routes:
+  - "Toronto (YYZ) – 2–3x weekly non-stop, seasonal (verify schedule for late April)"
+est_flight_cad: "$2,400–$3,800"
+est_hotel_cad: "$2,500–$9,000+"
+last_researched: 2026-03-15
 ---
 
 ## Flights

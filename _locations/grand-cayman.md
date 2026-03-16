@@ -1,10 +1,13 @@
 ---
----
-# Grand Cayman, Cayman Islands (GCM) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs are primarily quoted in **USD** — the Cayman Islands Dollar (CI$) is the official currency but USD is accepted universally at all hotels, restaurants, shops, and taxis. CAD is generally not accepted. The CI$ is pegged at CI$1 = USD $1.20.
-
+layout: location
+title: "Grand Cayman, Cayman Islands"
+country: Cayman Islands
+iata: GCM
+air_canada_routes:
+  - "Toronto (YYZ) – 2–3x weekly non-stop (seasonal, late April)"
+est_flight_cad: "$2,800–$4,400"
+est_hotel_cad: "$1,200–$10,000+"
+last_researched: 2026-03-15
 ---
 
 ## Flights

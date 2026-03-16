@@ -1,10 +1,13 @@
 ---
----
-# Willemstad, Curaçao (CUR) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights. Full country name: Curaçao, an autonomous country within the Kingdom of the Netherlands.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Curaçao are in **ANG** — the Netherlands Antillean Guilder (also called the florin, symbol NAf) — pegged at a fixed rate of approximately **1 USD = 1.79 ANG**. USD is widely accepted at hotels, restaurants, and tourist-facing businesses; EUR is accepted in many tourist areas as well. CAD is not commonly accepted; use USD or credit cards on the ground. Credit cards (Visa, Mastercard) are broadly accepted across the island.
-
+layout: location
+title: "Willemstad, Curaçao"
+country: Curaçao
+iata: CUR
+air_canada_routes:
+  - "Toronto (YYZ) – seasonal non-stop (verify schedule for late April)"
+est_flight_cad: "$2,400–$3,800"
+est_hotel_cad: "$1,075–$5,000+"
+last_researched: 2026-03-15
 ---
 
 ## Flights

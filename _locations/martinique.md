@@ -1,10 +1,13 @@
 ---
----
-# Fort-de-France, Martinique (FDF) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Martinique are in **EUR** — Martinique is a French overseas department (région d'outre-mer) and a full member of the European Union. The Euro is the sole official currency. USD and CAD are **not accepted**. Exchange CAD to EUR before departing Canada; credit cards are widely accepted at hotels, restaurants, and larger shops.
-
+layout: location
+title: "Fort-de-France, Martinique"
+country: Martinique (France)
+iata: FDF
+air_canada_routes:
+  - "Toronto (YYZ) – seasonal, ends ~April 4 2026; late April via Montreal (YUL)"
+est_flight_cad: "$2,000–$3,600"
+est_hotel_cad: "$3,500–$6,000"
+last_researched: 2026-03-15
 ---
 
 ## Flights

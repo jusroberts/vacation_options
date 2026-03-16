@@ -1,10 +1,13 @@
 ---
----
-# San Juan, Puerto Rico (SJU) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights. Puerto Rico is an unincorporated territory of the United States; US federal law and infrastructure apply throughout the island.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in Puerto Rico are in **USD** — the US Dollar is the sole currency. CAD is not accepted. Most Canadians will need to obtain USD before travelling; exchange at your Canadian bank or airport before departure. Credit cards (Visa, Mastercard) are accepted universally at hotels, restaurants, and shops.
-
+layout: location
+title: "San Juan, Puerto Rico"
+country: Puerto Rico (USA)
+iata: SJU
+air_canada_routes:
+  - "Toronto (YYZ) – seasonal non-stop (verify schedule for late April)"
+est_flight_cad: "$2,200–$3,600"
+est_hotel_cad: "$1,000–$4,300"
+last_researched: 2026-03-15
 ---
 
 ## Flights

@@ -1,10 +1,13 @@
 ---
----
-# Cayo Coco / Cayo Guillermo, Cuba (CCC) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.
-**Currency note:** Cuba uses the Cuban Peso (CUP) as its sole official currency. For tourists, **Canadian dollars (CAD) and Euros (EUR)** are the most practical foreign currencies to bring — they are readily exchanged at CADECA offices and resort front desks. Avoid bringing USD: the US dollar incurs a 10% exchange penalty in Cuba. Credit cards issued by Canadian banks generally work at some ATMs and resort cash desks, but reliability is inconsistent — do not rely on cards exclusively. Most visitors to Cayo Coco are on all-inclusive packages where cash use is minimal.
-
+layout: location
+title: "Cayo Coco / Cayo Guillermo, Cuba"
+country: Cuba
+iata: CCC
+air_canada_routes:
+  - "Toronto (YYZ) – 1–2x weekly non-stop, seasonal (verify schedule)"
+est_flight_cad: "$1,600–$2,800"
+est_hotel_cad: "$1,400–$4,200"
+last_researched: 2026-03-15
 ---
 
 ## Flights

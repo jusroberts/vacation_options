@@ -1,10 +1,13 @@
 ---
----
-# Basseterre, St. Kitts (SKB) — Vacation Guide for Couples from Toronto
-
-**Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights. Full country name: Federation of Saint Christopher and Nevis.
-**Currency note:** Flights are priced in CAD. All on-the-ground costs in St. Kitts are in **XCD** — the Eastern Caribbean Dollar — though **USD is widely accepted** at resorts, restaurants, and tourist-facing businesses. CAD is not commonly accepted; exchange to USD or XCD before departing Canada. Credit cards are accepted at most hotels and larger restaurants.
-
+layout: location
+title: "Basseterre, St. Kitts"
+country: St. Kitts & Nevis
+iata: SKB
+air_canada_routes:
+  - "Toronto (YYZ) – Saturdays, seasonal (late April may be end of window)"
+est_flight_cad: "$2,200–$3,600"
+est_hotel_cad: "$930–$6,000+"
+last_researched: 2026-03-15
 ---
 
 ## Flights
