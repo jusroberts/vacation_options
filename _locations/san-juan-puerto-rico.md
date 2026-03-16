@@ -10,6 +10,12 @@ est_hotel_cad: "$1,000–$4,300"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** San Juan, Puerto Rico — UNESCO Old City, birthplace of the piña colada, US territory
+> - ✈️ **Airport:** Luis Muñoz Marín International Airport (SJU); non-stop from YYZ, seasonal (verify late April)
+> - 🕐 **Total travel time:** Approximately 4 hours non-stop from Toronto (CBP preclearance at YYZ)
+> - 💱 **Currency:** US Dollar (USD) — official currency; no exchange needed
+
 ## Flights
 
 ### Route & Schedule

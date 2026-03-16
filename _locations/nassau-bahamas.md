@@ -12,6 +12,12 @@ est_hotel_cad: "$1,450–$5,000"
 last_researched: 2026-03-13
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Nassau, Bahamas — Capital city and gateway to the islands
+> - ✈️ **Airport:** Lynden Pindling International Airport (NAS); non-stop from YYZ
+> - 🕐 **Total travel time:** Approximately 3 hr 25 min non-stop from Toronto
+> - 💱 **Currency:** Bahamian Dollar (BSD); pegged 1:1 to USD — US dollars accepted everywhere
+
 ## Flights
 
 ### Round-Trip Cost — 2 Passengers, YYZ → NAS

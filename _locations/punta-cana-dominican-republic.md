@@ -10,6 +10,12 @@ est_hotel_cad: "$630–$6,500"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Punta Cana, Dominican Republic — All-inclusive beach resort capital of the Caribbean
+> - ✈️ **Airport:** Punta Cana International Airport (PUJ); non-stop from YYZ
+> - 🕐 **Total travel time:** Approximately 4 hr 26 min non-stop from Toronto
+> - 💱 **Currency:** Dominican Peso (DOP); USD universally accepted at resorts and tourist businesses
+
 ## Flights
 
 ### Round-Trip Cost — 2 Passengers, YYZ → PUJ

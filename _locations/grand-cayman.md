@@ -10,6 +10,12 @@ est_hotel_cad: "$1,200–$10,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Grand Cayman, Cayman Islands — Seven Mile Beach, world-class diving, and tax-free shopping
+> - ✈️ **Airport:** Owen Roberts International Airport (GCM); non-stop from YYZ 2–3x weekly
+> - 🕐 **Total travel time:** Approximately 4 hr 30 min non-stop from Toronto
+> - 💱 **Currency:** Cayman Islands Dollar (KYD); 1 KYD = 1.20 USD — USD accepted universally
+
 ## Flights
 
 ### Route & Schedule

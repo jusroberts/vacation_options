@@ -10,6 +10,12 @@ est_hotel_cad: "$1,700–$6,000"
 last_researched: 2026-03-14
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Great Exuma, Bahamas — Turquoise waters and barefoot luxury
+> - ✈️ **Airport:** Exuma International Airport (GGT); non-stop from YYZ (or connecting via Nassau)
+> - 🕐 **Total travel time:** Approximately 3 hr 35 min non-stop from Toronto
+> - 💱 **Currency:** Bahamian Dollar (BSD); pegged 1:1 to USD — US dollars accepted everywhere
+
 ## Flights
 
 ### Round-Trip Cost — 2 Passengers, YYZ → GGT

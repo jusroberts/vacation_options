@@ -10,9 +10,11 @@ est_hotel_cad: "$1,100–$5,500"
 last_researched: 2026-03-14
 ---
 
-> **Hurricane Melissa – Critical Notice:** Hurricane Melissa struck western Jamaica on October 28, 2025 as a Category 5 storm (max winds 185 mph), causing catastrophic damage across the Montego Bay resort corridor. As of March 2026, **many major Montego Bay resorts remain closed** and are not expected to reopen before November 2026. Check every property's current status before booking. The open-for-April-2026 options are called out explicitly in the Hotels section below. The Canada government travel advisory currently sits at **Level 2 – Exercise a High Degree of Caution** (see [Community Tips](#community-tips) for details).
-
----
+> **Trip at a glance:**
+> - 📍 **Destination:** Montego Bay, Jamaica — Jamaica's resort capital
+> - ✈️ **Airport:** Sangster International Airport (MBJ); non-stop from YYZ
+> - 🕐 **Total travel time:** Approximately 4 hr 20 min non-stop from Toronto
+> - 💱 **Currency:** Jamaican Dollar (JMD); USD widely accepted in tourist areas
 
 ## Flights
 

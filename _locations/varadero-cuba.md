@@ -10,6 +10,12 @@ est_hotel_cad: "$900–$4,500"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Varadero, Cuba — Cuba's premier beach resort peninsula
+> - ✈️ **Airport:** Juan Gualberto Gómez Airport (VRA); non-stop from YYZ
+> - 🕐 **Total travel time:** Approximately 3 hr 35 min non-stop from Toronto
+> - 💱 **Currency:** Cuban Peso (CUP); USD and CAD accepted at resorts and tourist businesses
+
 ## Flights
 
 ### Route & Schedule

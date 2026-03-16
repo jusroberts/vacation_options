@@ -10,9 +10,11 @@ est_hotel_cad: "$640–$2,550"
 last_researched: 2026-03-15
 ---
 
-> **Not a beach resort destination.** Kingston is Jamaica's capital and cultural heart — a city of reggae, art, history, and food. There are no resort beaches within the city; the nearest swimming is a boat ride away at Lime Cay. If you are looking for sun-and-sand all-inclusive resorts, see [Montego Bay]({{ site.baseurl }}/locations/montego-bay-jamaica) instead. Kingston rewards travelers who want authentic Jamaican urban culture, music history, and some of the best dining in the Caribbean. The Canada government travel advisory currently sits at **Level 2 – Exercise a High Degree of Caution** (see [Safety](#safety--read-this-before-you-go) for critical details).
-
----
+> **Trip at a glance:**
+> - 📍 **Destination:** Kingston, Jamaica — Reggae, rum, and cultural heartbeat of the Caribbean
+> - ✈️ **Airport:** Norman Manley International Airport (KIN); non-stop from YYZ
+> - 🕐 **Total travel time:** Approximately 4 hr 10 min non-stop from Toronto
+> - 💱 **Currency:** Jamaican Dollar (JMD); USD widely accepted in tourist areas
 
 ## Flights
 

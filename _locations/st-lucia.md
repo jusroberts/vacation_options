@@ -10,6 +10,12 @@ est_hotel_cad: "$2,150–$9,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Vieux Fort, St. Lucia — The Pitons, volcanic hot springs, and lush tropical rainforest
+> - ✈️ **Airport:** Hewanorra International Airport (UVF); non-stop from YYZ on Saturdays, seasonal
+> - 🕐 **Total travel time:** Approximately 4.5–5 hours non-stop from Toronto
+> - 💱 **Currency:** Eastern Caribbean Dollar (XCD); 1 USD ≈ 2.70 XCD — USD widely accepted
+
 ## Flights
 
 ### Route & Schedule

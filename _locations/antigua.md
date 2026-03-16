@@ -10,6 +10,12 @@ est_hotel_cad: "$2,500–$9,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** St. John's, Antigua — 365 beaches and the sailing capital of the Caribbean
+> - ✈️ **Airport:** V.C. Bird International Airport (ANU); non-stop from YYZ, seasonal (verify late April)
+> - 🕐 **Total travel time:** Approximately 4 hours non-stop from Toronto
+> - 💱 **Currency:** Eastern Caribbean Dollar (XCD); 1 USD ≈ 2.70 XCD — USD widely accepted
+
 ## Flights
 
 ### Route & Schedule

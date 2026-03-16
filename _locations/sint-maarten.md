@@ -10,10 +10,11 @@ est_hotel_cad: "$1,100–$7,250"
 last_researched: 2026-03-15
 ---
 
-### For a couple travelling from Toronto (YYZ) | Late April 2026
-
-Sint Maarten / Saint Martin is a 37-square-mile island in the northeastern Caribbean shared by two nations. The southern Dutch side (Sint Maarten) is a constituent country of the Kingdom of the Netherlands. The northern French side (Saint Martin) is a French *collectivité d'outre-mer*. Together they form one of the most diverse, food-obsessed, and beach-rich destinations in the Caribbean, often called the "Culinary Capital of the Caribbean" and the "Crossroads of the Caribbean" for its 100+ nationalities.
-
+> **Trip at a glance:**
+> - 📍 **Destination:** Sint Maarten / Saint Martin — Two nations, one island, duty-free paradise
+> - ✈️ **Airport:** Princess Juliana International Airport (SXM); non-stop from YYZ Thursdays & Sundays (AC1326)
+> - 🕐 **Total travel time:** Approximately 4 hr 45 min non-stop from Toronto
+> - 💱 **Currency:** Netherlands Antillean Guilder (ANG) on Dutch side; Euro (EUR) on French side — USD accepted everywhere on both sides
 
 ## Flights
 

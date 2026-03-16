@@ -10,6 +10,12 @@ est_hotel_cad: "$1,225–$12,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Providenciales, Turks & Caicos — Grace Bay Beach, consistently ranked the world's best
+> - ✈️ **Airport:** Providenciales International Airport (PLS); non-stop from YYZ 3–5x weekly
+> - 🕐 **Total travel time:** Approximately 3 hr 55 min non-stop from Toronto
+> - 💱 **Currency:** US Dollar (USD) — official currency; no exchange needed
+
 ## Flights
 
 ### Route & Schedule

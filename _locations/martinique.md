@@ -10,6 +10,12 @@ est_hotel_cad: "$3,500–$6,000"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Fort-de-France, Martinique — French Caribbean elegance and volcanic beauty
+> - ✈️ **Airport:** Martinique Aimé Césaire International Airport (FDF); YYZ direct ends ~April 4 — late April likely via Montreal (YUL)
+> - 🕐 **Total travel time:** Approximately 5 hr direct from YYZ; ~7 hr via YUL connection in late April
+> - 💱 **Currency:** Euro (EUR); CAD/USD not accepted — exchange before departure
+
 ## Flights
 
 ### Route & Schedule

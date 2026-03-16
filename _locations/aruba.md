@@ -10,6 +10,12 @@ est_hotel_cad: "$800–$9,000 (5 nights)"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Aruba — One Happy Island; endless sunshine outside the hurricane belt
+> - ✈️ **Airport:** Queen Beatrix International Airport (AUA); non-stop from YYZ up to 6x weekly (AC1826)
+> - 🕐 **Total travel time:** Approximately 5 hr 5 min non-stop from Toronto
+> - 💱 **Currency:** Aruban Florin (AWG); 1 USD ≈ 1.79 AWG — USD accepted everywhere
+
 ## Flights
 
 ### Round-Trip Cost — 2 Passengers, YYZ → AUA

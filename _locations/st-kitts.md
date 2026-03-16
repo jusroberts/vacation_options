@@ -10,6 +10,12 @@ est_hotel_cad: "$930–$6,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Basseterre, St. Kitts — Volcanic peaks, plantation history, and the last railway in the Caribbean
+> - ✈️ **Airport:** Robert L. Bradshaw International Airport (SKB); seasonal Saturdays from YYZ (verify late April availability)
+> - 🕐 **Total travel time:** Approximately 4 hours non-stop from Toronto when direct service operates
+> - 💱 **Currency:** Eastern Caribbean Dollar (XCD); 1 USD ≈ 2.70 XCD — USD widely accepted
+
 ## Flights
 
 ### Route & Schedule

@@ -10,6 +10,12 @@ est_hotel_cad: "$1,400–$4,200"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Cayo Coco / Cayo Guillermo, Cuba — Pristine all-inclusive island retreat
+> - ✈️ **Airport:** Jardines del Rey Airport (CCC); non-stop from YYZ
+> - 🕐 **Total travel time:** Approximately 3 hr 30 min non-stop from Toronto
+> - 💱 **Currency:** Cuban Peso (CUP); USD and CAD accepted at resorts and tourist businesses
+
 ## Flights
 
 ### Route & Schedule

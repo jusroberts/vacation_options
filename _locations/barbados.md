@@ -10,6 +10,12 @@ est_hotel_cad: "$1,430–$6,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Bridgetown, Barbados — Rum, cricket, coral reefs, and the most British island in the Caribbean
+> - ✈️ **Airport:** Grantley Adams International Airport (BGI); non-stop from YYZ, seasonal (verify late April)
+> - 🕐 **Total travel time:** Approximately 5 hours non-stop from Toronto
+> - 💱 **Currency:** Barbadian Dollar (BBD); pegged at exactly 2 BBD = 1 USD — USD accepted everywhere
+
 ## Flights
 
 ### Route & Schedule

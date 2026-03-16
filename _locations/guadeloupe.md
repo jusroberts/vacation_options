@@ -10,6 +10,12 @@ est_hotel_cad: "$3,000–$5,500"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Pointe-à-Pitre, Guadeloupe — Butterfly-shaped French island with natural wonders
+> - ✈️ **Airport:** Guadeloupe Pôle Caraïbes Airport (PTP); non-stop from YYZ on Saturdays only
+> - 🕐 **Total travel time:** Approximately 5 hours non-stop from Toronto (Saturday departures only)
+> - 💱 **Currency:** Euro (EUR); CAD/USD not accepted — exchange before departure
+
 ## Flights
 
 ### Route & Schedule

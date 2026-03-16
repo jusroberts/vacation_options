@@ -10,6 +10,12 @@ est_hotel_cad: "$1,075–$5,000+"
 last_researched: 2026-03-15
 ---
 
+> **Trip at a glance:**
+> - 📍 **Destination:** Willemstad, Curaçao — Dutch colonial colour, coral reefs, and Caribbean flair
+> - ✈️ **Airport:** Hato International Airport (CUR); non-stop from YYZ, seasonal (verify schedule)
+> - 🕐 **Total travel time:** Approximately 4.5–5 hours non-stop from Toronto
+> - 💱 **Currency:** Netherlands Antillean Guilder (ANG); USD widely accepted
+
 ## Flights
 
 ### Route & Schedule
