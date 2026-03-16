@@ -1,3 +1,5 @@
+---
+---
 # San Juan, Puerto Rico (SJU) — Vacation Guide for Couples from Toronto
 
 **Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights. Puerto Rico is an unincorporated territory of the United States; US federal law and infrastructure apply throughout the island.

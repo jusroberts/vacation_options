@@ -1,3 +1,5 @@
+---
+---
 # St. John's, Antigua (ANU) — Vacation Guide for Couples from Toronto
 
 **Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights.

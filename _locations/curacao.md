@@ -1,3 +1,5 @@
+---
+---
 # Willemstad, Curaçao (CUR) — Vacation Guide for Couples from Toronto
 
 **Trip profile:** Two adults departing Toronto Pearson (YYZ), late April 2026, approximately 5 nights. Full country name: Curaçao, an autonomous country within the Kingdom of the Netherlands.
