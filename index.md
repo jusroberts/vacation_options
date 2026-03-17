@@ -3,13 +3,15 @@ layout: default
 title: "Caribbean Vacation Options – April 2026"
 ---
 
-# Caribbean Vacation Options
-### Air Canada Non-Stop Destinations — Late April 2026
+# Vacation Options
+### Air Canada Destinations — Late April 2026
 
-Comparing 20 Caribbean destinations reachable by **non-stop Air Canada flights** during late April 2026.
+Comparing Caribbean and Pacific destinations reachable by **Air Canada flights** during late April 2026.
 All price estimates are for **2 adults** departing from **Toronto (YYZ)**, with a **5-night stay (Mon–Fri)**.
 
 > Prices are estimates based on research conducted in March 2026. Confirm fares at [aircanada.com](https://www.aircanada.com) and accommodation rates at booking sites before purchasing.
+
+### Caribbean
 
 | Destination | Country | Est. Flights (2 pax) | Est. Hotel (5 nights) | Page |
 |---|---|---|---|---|
@@ -34,9 +36,15 @@ All price estimates are for **2 adults** departing from **Toronto (YYZ)**, with 
 | Providenciales | Turks & Caicos | ~$2,600–$4,000 CAD | ~$1,225–$12,000+ CAD | [View →]({{ site.baseurl }}/locations/providenciales-turks-caicos/) |
 | San Juan | Puerto Rico | ~$2,200–$3,600 CAD | ~$1,000–$4,300 CAD | [View →]({{ site.baseurl }}/locations/san-juan-puerto-rico/) |
 
+### Hawaii
+
+| Destination | Country | Est. Flights (2 pax) | Est. Hotel (5 nights) | Page |
+|---|---|---|---|---|
+| Lihue, Kauai ✈️ | Hawaii (USA) | ~$1,400–$1,900 CAD | ~$1,400–$6,000+ CAD | [View →]({{ site.baseurl }}/locations/kauai-hawaii/) |
+
 **Legend:**
 - ⚠️ Direct Air Canada service may be limited or at end of seasonal window for late April — verify schedule before booking
-- ✈️ No direct YYZ service; connecting flight required (via Barbados BGI recommended)
+- ✈️ No direct YYZ service; connecting flight required
 
 ---
 
