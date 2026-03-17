@@ -42,9 +42,15 @@ All price estimates are for **2 adults** departing from **Toronto (YYZ)**, with 
 |---|---|---|---|---|
 | Lihue, Kauai ✈️ | Hawaii (USA) | ~$1,400–$1,900 CAD | ~$1,400–$6,000+ CAD | [View →]({{ site.baseurl }}/locations/kauai-hawaii/) |
 
+### Atlantic / Europe
+
+| Destination | Country | Est. Flights (2 pax) | Est. Hotel (5 nights) | Page |
+|---|---|---|---|---|
+| Ponta Delgada, Azores ✈️ | Portugal (EU) | ~$1,050–$2,200 CAD | ~$800–$4,200+ CAD | [View →]({{ site.baseurl }}/locations/azores-portugal/) |
+
 **Legend:**
 - ⚠️ Direct Air Canada service may be limited or at end of seasonal window for late April — verify schedule before booking
-- ✈️ No direct YYZ service; connecting flight required
+- ✈️ No direct Air Canada YYZ service; non-Air Canada or connecting flight required
 
 ---
 
